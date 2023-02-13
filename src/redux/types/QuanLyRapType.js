@@ -1,0 +1,2 @@
+export const GET_DANH_SACH_CUM_RAP = 'GET_DANH_SACH_CUM_RAP'
+export const SET_CHI_TIET_PHIM = 'SET_CHI_TIET_PHIM'

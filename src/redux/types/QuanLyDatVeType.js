@@ -1,0 +1,6 @@
+export const DAT_VE_ACTION = 'DAT_VE_ACTION' 
+export const DAT_VE_CHECKOUT = 'DAT_VE_CHECKOUT'
+export const HOAN_TAT_DAT_VE = 'HOAN_TAT_DAT_VE'
+export const CHUYEN_TAB = 'CHUYEN_TAB'
+export const CHANGE_TAB_ACTIVE = 'CHANGE_TAB_ACTIVE'
+export const DAT_VE_REALTIME = 'DAT_VE_REALTIME'

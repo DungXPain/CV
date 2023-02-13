@@ -1,0 +1,44 @@
+#trapezoid {
+    border-bottom: 100px solid rgb(219, 219, 219);
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 100%;
+    filter: grayscale(25%) brightness(131%) saturate(134%) opacity(67%) invert(12%) drop-shadow(-12px -14px 10px rgba(0, 0, 0, 0.26));
+    -webkit-filter: grayscale(25%) brightness(131%) saturate(134%) opacity(67%) invert(12%) drop-shadow(-12px -14px 10px rgba(0, 0, 0, 0.26));
+    -moz-filter: grayscale(25%) brightness(131%) saturate(134%) opacity(67%) invert(12%) drop-shadow(-12px -14px 10px rgba(0, 0, 0, 0.26));
+}
+
+.ghe {
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 12px;
+    background-color: rgb(123, 122, 122);
+    color: #fff;
+}
+
+.gheDaDat {
+    background-color: rgb(201, 45, 45);
+    cursor: no-drop;
+}
+
+.gheDangDat {
+    background-color: rgb(3, 211, 3);
+}
+
+.gheVip {
+    background-color: rgb(235, 170, 49);
+}
+
+.gheDaDuocDat {
+    background-color: rgb(246, 246, 246);
+    -webkit-box-shadow: -7px 0px 42px -3px rgba(0, 0, 0, 0.62);
+    box-shadow: -7px 0px 42px -3px rgba(0, 0, 0, 0.62);
+    color:brown;
+    border: 2px solid black;
+}
+.gheKhachDat{
+    background-color: rgb(242, 25, 191);
+}
